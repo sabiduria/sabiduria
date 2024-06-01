@@ -1,6 +1,13 @@
 ## About Me:
 I'm Antoine de Padoue Sabiduria, an enthusiastic and dedicated application developer with a passion for creating seamless and innovative digital experiences. With a strong foundation in both front-end and back-end development, I thrive on bringing ideas to life through code.
 
+## 🚀 What I Do:
+- Develop and maintain high-quality web and mobile applications.
+- Collaborate with cross-functional teams to design and implement new features.
+- Optimize applications for maximum speed and scalability.
+- Troubleshoot and debug to ensure optimal performance.
+- Develop code generation tools for rapid development
+- Stay up-to-date with emerging technologies and industry trends.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoine-de-padoue-baruani) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/SabiantArt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sabiduria347) 
