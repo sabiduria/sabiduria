@@ -1,5 +1,5 @@
 ## About Me:
-About Me<br>👋 Hi there! I'm Antoine de Padoue Sabiduria, an enthusiastic and dedicated application developer with a passion for creating seamless and innovative digital experiences. With a strong foundation in both front-end and back-end development, I thrive on bringing ideas to life through code.
+I'm Antoine de Padoue Sabiduria, an enthusiastic and dedicated application developer with a passion for creating seamless and innovative digital experiences. With a strong foundation in both front-end and back-end development, I thrive on bringing ideas to life through code.
 
 
 ## 🌐 Socials:
